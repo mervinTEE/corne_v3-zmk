@@ -57,8 +57,8 @@
         qwerty {
             bindings = <
 &kp GRAVE                &hm EXCLAMATION Q  &hm AT_SIGN W   &hm POUND E     &hm DOLLAR R      &hm PERCENT T  &hm CARET Y         &hm AMPERSAND U  &hm ASTERISK I  &hm LEFT_PARENTHESIS O  &hm RIGHT_PARENTHESIS P  &kp BACKSPACE
-&kp LCTRL                &hm LEFT_GUI A     &hm LEFT_ALT S  &hm LCTRL D     &hm LEFT_SHIFT F  &kp G          &hm LEFT_CONTROL H  &hm RSHIFT J     &hm RCTRL K     &hm ESCAPE L            &hm TAB SEMICOLON        &kp SQT
-&mt LEFT_SHIFT CAPSLOCK  &kp Z              &kp X           &kp C           &kp V             &kp B          &kp N               &kp M            &kp COMMA       &kp DOT                 &kp FSLH                 &kp RIGHT_SHIFT
+&mt LEFT_SHIFT CAPSLOCK  &hm LEFT_GUI A     &hm LEFT_ALT S  &hm LCTRL D     &hm LEFT_SHIFT F  &kp G          &hm LEFT_CONTROL H  &hm RSHIFT J     &hm RCTRL K     &hm ESCAPE L            &hm TAB SEMICOLON        &kp SQT
+&kp LCTRL                &kp Z              &kp X           &kp C           &kp V             &kp B          &kp N               &kp M            &kp COMMA       &kp DOT                 &kp FSLH                 &kp RIGHT_SHIFT
                                                             &lt 1 LEFT_GUI  &lt 2 SPACE       &lt 3 DELETE   &lt 2 ENTER         &lt 1 SPACE      &kp RIGHT_ALT
             >;
         };
