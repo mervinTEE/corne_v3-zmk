@@ -49,6 +49,11 @@
             bindings = <&kp K_PASTE>;
             key-positions = <3 4>;
         };
+
+        delete {
+            bindings = <&kp DELETE>;
+            key-positions = <15 14>;
+        };
     };
 
     keymap {
