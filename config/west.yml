@@ -19,25 +19,25 @@ manifest:
   projects:
     - name: zmk
       remote: zmkfirmware
-      revision: main
+      revision: v0.3
       import: app/west.yml
     - name: hammerbeam-slideshow
       remote: gpeye
-      revision: main
+      revision: v0.3
     - name: zmk-nice-oled
       remote: mctechnology17
-      revision: main
+      revision: v0.3
     - name: nice-view-elemental
       remote: kevinpastor
-      revision: main
+      revision: v0.3
     - name: nice-view-gem
       remote: m165437
-      revision: main
+      revision: v0.3
     - name: zmk-shield-nice-view-cats
       remote: s6t
-      revision: main
+      revision: v0.3
     - name: nice-view-battery
       remote: infely
-      revision: main
+      revision: v0.3
   self:
     path: config
